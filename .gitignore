@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Assets/Models/ModularHouses/Maps/Demo_01_Dynamic.umap
+Content/Assets/Models/ModularHouses/Maps/Demo_01_Night.umap
+Content/Assets/Models/ModularHouses/Maps/Demo_01_Static.umap
